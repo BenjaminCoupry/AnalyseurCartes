@@ -1,0 +1,9 @@
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\bin\Debug\AnalyseurCartes.exe.config
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\bin\Debug\AnalyseurCartes.exe
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\bin\Debug\AnalyseurCartes.pdb
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\obj\Debug\AnalyseurCartes.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\obj\Debug\AnalyseurCartes.Properties.Resources.resources
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\obj\Debug\AnalyseurCartes.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\obj\Debug\AnalyseurCartes.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\obj\Debug\AnalyseurCartes.exe
+C:\Users\benja\source\repos\AnalyseurCartes\AnalyseurCartes\obj\Debug\AnalyseurCartes.pdb
